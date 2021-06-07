@@ -149,4 +149,5 @@ int main(int argc, char const *argv[])
         if (opcion == 0)
             break;        
     }
+    return 0;
 }
