@@ -52,7 +52,6 @@ void cargarLibros() {
 int main(int argc, char const *argv[])
 {
     cargarLibros();
-
     srand (time(NULL));
     
     bool salir = false;
